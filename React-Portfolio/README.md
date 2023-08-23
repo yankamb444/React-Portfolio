@@ -9,3 +9,10 @@ Currently, two official plugins are available:
 
 
 1. vite : https://www.npmjs.com/package/vite 
+
+# Resources 
+1. Vitejs: https://vitejs.dev/guide/features.html
+2. W3schools React Jsx: https://www.w3schools.com/react/react_jsx.asp 
+https://www.w3schools.com/react/react_getstarted.asp 
+
+

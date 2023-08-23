@@ -67,3 +67,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/* If css.modules.localsConvention is set to enable camelCase locals (e.g. localsConvention: 'camelCaseOnly'), you can also use named imports:
+
+js
+// .apply-color -> applyColor
+import { applyColor } from './example.module.css'
+document.getElementById('foo').className = applyColor */
